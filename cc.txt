@@ -1,0 +1,12 @@
+CC1 yo
+CC2 o
+CC3 ba
+CC4 O
+CC5 le
+CC6 a
+CC7 se
+CC8 tse
+CC9 di
+C10 lo
+CC11 mo
+CC12 go
